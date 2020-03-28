@@ -1,0 +1,2 @@
+# iot_distance_sensor
+This project demonstrates how easy and accessible it is to “Internet” anything and make it intelligent. In this hands-on workshop, groups will work together to build a distance sensing IoT device using a microcontroller, bread board, jumper wires, resistors, LED and the HC-SR04 proximity sensor.  It will detect how close an object is and send an MQTT message to all subscribed clients, such as smartphones or laptops. The python code posted here will be used to make our distance sensing device intelligent.
